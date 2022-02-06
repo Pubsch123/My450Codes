@@ -57,3 +57,14 @@ int32_t main() {
     solve();
     return 0;
 }
+
+
+
+//  check this above written code with the code link given below..
+/*
+
+
+https://ide.geeksforgeeks.org/uf2Ki4IULW
+
+
+*/
